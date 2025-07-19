@@ -3258,11 +3258,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\SERV\\CODE\\C-Repo\\LivrosApiCrud\\ApiCrudP.csproj",
+      "projectUniqueName": "E:\\SERV\\CODE\\CLONES\\ApiLivros\\ApiCrudP.csproj",
       "projectName": "ApiCrudP",
-      "projectPath": "E:\\SERV\\CODE\\C-Repo\\LivrosApiCrud\\ApiCrudP.csproj",
+      "projectPath": "E:\\SERV\\CODE\\CLONES\\ApiLivros\\ApiCrudP.csproj",
       "packagesPath": "C:\\Users\\JIANG\\.nuget\\packages\\",
-      "outputPath": "E:\\SERV\\CODE\\C-Repo\\LivrosApiCrud\\obj\\",
+      "outputPath": "E:\\SERV\\CODE\\CLONES\\ApiLivros\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
